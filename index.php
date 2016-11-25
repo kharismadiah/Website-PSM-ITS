@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- KODINGAN HALAMAN HOME -->
 <html>
 <title>W3.CSS Template</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
