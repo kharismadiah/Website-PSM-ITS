@@ -7,14 +7,14 @@
 <link rel="stylesheet" type="text/css" href="https://several-icons/css/fontello.css">
 <body>
   
-  <!-- Tulisan PSM pojok kiri atas -->
-  <div class="w3-top">
+<!-- Tulisan PSM pojok kiri atas -->
+<div class="w3-top">
   <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
     <li>
       <a href="#home" class="w3-margin-left"><b>PSM ITS</b></a>
     </li>
   </ul>
-  </div>
+</div>
 
-</html>
 </body>
+</html>
