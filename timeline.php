@@ -165,6 +165,17 @@
   </div>
 </div> 
   
-
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <a href="#" class="w3-btn w3-padding w3-black w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <a href="https://www.facebook.com/itsstudentchoir"><i class="fa fa-facebook-official w3-hover-text-indigo"></i></a>
+    <a href="https://instagram.com/itschoir"><i class="fa fa-instagram w3-hover-text-purple"></i></a>
+    <a href="https://twitter.com/itschoir"><i class="fa fa-twitter w3-hover-text-light-blue" ></i></a>
+	<i class="fa fa-line-messenger w3-hover-text-purple"></i>
+  </div>
+  <p>LINE : <a href="http://line.me/ti/p/~ozp3651p" title="Line PSM ITS" target="_blank" class="w3-hover-text-green">ozp3651p</a></p>
+</footer>
+  
 </body>
 </html>
