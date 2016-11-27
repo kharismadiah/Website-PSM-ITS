@@ -28,6 +28,17 @@
     </style>
   </ul>
 </div>
-  
+
+<!-- Landing Page -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-border w3-border-black w3-padding">PSM</span> <span class="w3-hide-small">About Us</span></h1>
+  </div>
+  <style>
+    body,h1 {font-family: "aramis", aramis}
+  </style>
+</header>  
+
 </body>
 </html>
