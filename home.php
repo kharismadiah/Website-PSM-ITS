@@ -39,6 +39,54 @@
     body,h1 {font-family: "aramis", aramis}
   </style>
 </header>
+
+<!-- Content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+  <!-- Testimonial -->
+  <div class="w3-container w3-padding-32" id="Testimonials">
+    <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12">TESTIMONIALS</h3>
+  </div>
+  <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+      <h3>John Doe</h3>
+      <p class="w3-opacity">CEO & Founder</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="Assets/dfdfdfdf.jpg" alt="Jane" style="width:100%">
+      <h3>Jane Doe</h3>
+      <p class="w3-opacity">Architect</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="Assets/dfdfdfdf.jpg" alt="Mike" style="width:100%">
+      <h3>Mike Ross</h3>
+      <p class="w3-opacity">Architect</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="Assets/dfdfdfdf.jpg" alt="Dan" style="width:100%">
+      <h3>Dan Star</h3>
+      <p class="w3-opacity">Architect</p>
+      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    </div>
+  </div>
+  <!-- Feedback -->
+  <div class="w3-container w3-padding-32 w3-center" id="feedback">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">FEEDBACK</h3>
+    <p>Let's get in touch and talk about your suggestions for our improvements.</p>
+    <form action="form.asp" target="_blank">
+      <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Subject" required name="Subject">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Suggestions" required name="Suggestions">
+      <button class="w3-btn w3-section w3-center" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND SUGGESTIONS
+      </button>
+    </form>
+  </div>
+</div>
   
 </body>
 </html>
