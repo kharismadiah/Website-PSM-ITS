@@ -50,7 +50,7 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
       <h3>John Doe</h3>
-      <p class="w3-opacity">CEO & Founder</p>
+      <p class="w3-opacity">CEO and Founder</p>
       <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
@@ -87,6 +87,18 @@
     </form>
   </div>
 </div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <a href="#" class="w3-btn w3-padding w3-black w3-margin"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+  <div class="w3-xlarge w3-section">
+    <a href="https://www.facebook.com/itsstudentchoir"><i class="fa fa-facebook-official w3-hover-text-indigo"></i></a>
+    <a href="https://instagram.com/itschoir"><i class="fa fa-instagram w3-hover-text-purple"></i></a>
+    <a href="https://twitter.com/itschoir"><i class="fa fa-twitter w3-hover-text-light-blue" ></i></a>
+	<i class="fa fa-line-messenger w3-hover-text-purple"></i>
+  </div>
+  <p>LINE : <a href="http://line.me/ti/p/~ozp3651p" title="Line PSM ITS" target="_blank" class="w3-hover-text-green">ozp3651p</a></p>
+</footer>
   
 </body>
 </html>
