@@ -40,6 +40,130 @@
     </style>
 </header>
   
+<!-- Content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+  <!-- Timeline -->
+  <div class="w3-container w3-padding-32 w3-center" id="timeline">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Timeline 2016</h3>
+  </div>
+  
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">January</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">February</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">March</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">April</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">May</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">June</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">July</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">August</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">September</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">October</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">November</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">December</div>
+        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
+        <h3>Events' Name</h3>
+        <p class="w3-opacity">Summary of the Events...</p>
+        <p><button class="w3-btn-block">Details</button></p>
+      </div>
+    </div>
+  </div>
+</div> 
   
 
 </body>
