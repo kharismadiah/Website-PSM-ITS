@@ -39,6 +39,118 @@
     body,h1 {font-family: "aramis", aramis}
   </style>
 </header>
+
+<!-- Content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+  
+<!-- Reserve Section -->
+  <div class="w3-container w3-padding-32 w3-center" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Reserve what you want to reserve here.</h3>
+  </div>
+
+<!-- Reservation Form Section -->
+<div class="w3-container w3-center" id="feedback">
+    <p>Ticket reservation</p>
+    <form action="form.asp" target="_blank">
+      <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Address" required name="Address">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Number of tickets" required name="Number of tickets">
+      <p>Contact person for ticket reservation :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</p>
+      <button class="w3-btn w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> RESERVE
+      </button>
+    </form>
+</div>
+
+<div class="w3-container w3-center" id="feedback">
+    <p>Service reservation</p>
+	<!-- Data diri User -->
+    <form action="form.asp" target="_blank">
+      <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Address" required name="Address">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
+    <!-- Pilihan jasa -->
+	  <form action="">
+	  <p>Service :
+	  <br>
+		  <input type="checkbox" name="service" value="dirigen"> Dirigen
+		  <input type="checkbox" name="service" value="vocal group"> Vocal Group*
+		  <input type="checkbox" name="service" value="choir">Choir
+		  <p>*maximum 6 person</p>
+    </p>
+    </form>
+	  <!-- Gender -->
+	  <form action="">
+	  <p>Gender :
+	  <br>
+		  <input type="radio" name="gender" value="male only"> Male only
+		  <input type="radio" name="gender" value="female only"> Female only
+		  <input type="radio" name="gender" value="male & female"> Male & Female
+	  </p>
+    </form>
+    <!-- Pengiring -->
+	  <form action="">
+	  <p>Accompaniment :
+	  <br>
+		  <input type="checkbox" name="accompaniment" value="keyboard"> Keyboard
+		  <input type="checkbox" name="accompaniment" value="guitar"> Guitar
+	  </p>
+    </form>
+    <!-- Pilihan lagu -->
+	  <form action="">
+	  <p>Song :
+	  <br>
+		  <input type="checkbox" name="gender" value="male"> Indonesia Raya
+		  <input type="checkbox" name="gender" value="female"> Padamu Negeri
+		  <input type="checkbox" name="gender" value="male"> Rayuan Pulau Kelapa
+		  <input type="checkbox" name="gender" value="female"> Mengheningkan Cipta
+	  </p>
+    </form>
+    <!-- Pilihan kostum, trdpt beberapa foto kostum tsb -->
+	  <form action="">
+		  <div class="w3-content" style="max-width:1564px">
+		    <div class="w3-row-padding">
+		      <div class="w3-container" id="dress">
+			      <p>Dress :
+		      </div>
+		      <br>
+		      <div class="w3-col l3 m6 w3-margin-bottom">
+		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+		        <input type="radio" name="gender" value="male only"> Orange & Purple<br>
+		      </div>
+		      <div class="w3-col l3 m6 w3-margin-bottom">
+		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
+		      </div>
+          <div class="w3-col l3 m6 w3-margin-bottom">
+		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
+		      </div>
+		      <div class="w3-col l3 m6 w3-margin-bottom">
+		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
+		      </div>
+	          </p>
+	      </div>
+	    </div>
+    </form>
+	  <!-- Tempat pelaksanaan acara -->
+    <input class="w3-input w3-section w3-center" type="text" placeholder="Event's Location" required name="Event's Location">
+    <!-- Tanggal & waktu pelaksanaan acara -->
+	  <form action="action_page.php">
+		  Organizing the Event :
+	  <input type="datetime-local" name="date&time">
+	  </form>
+	  
+    <p>Contact person for ticket reservation :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</p>
+    <button class="w3-btn w3-section" type="submit">
+      <i class="fa fa-paper-plane"></i> RESERVE
+    </button>
+    </form>
+  </div>
+</div>
+  
   
 </body>
 </html>
