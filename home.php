@@ -34,7 +34,7 @@
   <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
     <img src="Assets/Logo PSM ITS.png" alt="Logo" style="width:30%">
-    <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-border w3-border-black w3-padding">PSM</span> <span class="w3-hide-small">Paduan Suara Mahasiswa ITS</span></h1>
+    <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">Paduan Suara Mahasiswa ITS</span></h1>
   </div>
   <style>
     body,h1 {font-family: "aramis", aramis}
