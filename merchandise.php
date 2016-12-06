@@ -22,7 +22,6 @@
       <a href="gallery.php" class="w3-left">Gallery</a>
       <a href="merchandise.php" class="w3-left">Merchandise</a>
       <a href="reservation.php" class="w3-left">Reservation</a>
-      <a href="contact.php" class="w3-left w3-margin-right">Contact</a>
     </li>
     <style>
       body,a {font-family: "aramis", aramis}
