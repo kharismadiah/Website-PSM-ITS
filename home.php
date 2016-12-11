@@ -47,35 +47,35 @@
     <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12">TESTIMONIALS</h3>
   </div>
   <div class="w3-row-padding w3-grayscale">
-    <div class="w3-col l3 m6 w3-margin-bottom">
+    <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
       <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3>John Doe</h3>
-      <p class="w3-opacity">CEO and Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
+    <div class="w3-col l3 m6 w3-margin-bottom font-family=18px">
       <img src="Assets/dfdfdfdf.jpg" alt="Jane" style="width:100%">
-      <h3>Jane Doe</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/dfdfdfdf.jpg" alt="Mike" style="width:100%">
-      <h3>Mike Ross</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/dfdfdfdf.jpg" alt="Dan" style="width:100%">
-      <h3>Dan Star</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
+    <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
   </div>
   <!-- Feedback -->
   <div class="w3-container w3-padding-32 w3-center" id="feedback">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">FEEDBACK</h3>
-    <p>Let's get in touch and talk about your suggestions for our improvements.</p>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">FEEDBACK</font></h3>
+    <p><font size="3">Let's get in touch and talk about your suggestions for our improvements.</font></p>
     <form action="form.asp" target="_blank">
       <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
