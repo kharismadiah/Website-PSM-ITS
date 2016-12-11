@@ -76,14 +76,13 @@
   <div class="w3-container w3-padding-32 w3-center" id="feedback">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">FEEDBACK</font></h3>
     <p><font size="3">Let's get in touch and talk about your suggestions for our improvements.</font></p>
-    <form action="form.asp" target="_blank">
+    <form method="post" action="mailto:ninimaimi@gmail.com" enctype="text/plain">
       <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Subject" required name="Subject">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Suggestions" required name="Suggestions">
-      <button class="w3-btn w3-section w3-center" type="submit">
-        <i class="fa fa-paper-plane"></i> SEND SUGGESTIONS
-      </button>
+        <i class="fa fa-paper-plane"></i>
+        <input class="w3-btn w3-section w3-center" type="Submit">
     </form>
   </div>
 </div>
