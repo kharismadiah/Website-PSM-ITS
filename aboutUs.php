@@ -10,8 +10,8 @@
 <!-- Tulisan PSM pojok kiri atas & Menu di atas -->
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
-    <li>
-      <a href="home.php" class="w3-margin-left"><b>PSM ITS</b></a>
+    <li class="w3-row-padding">
+      <img class="logo-image" src="Assets/logoKecil.jpg">
     </li>
     <li class="w3-right w3-hide-small">
       <a href="home.php" class="w3-left">Home</a>
@@ -30,7 +30,7 @@
 
 <!-- Landing Page -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
+  <img class="background-image" src="Assets/asd.jpg"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
     <img src="Assets/logoas.png" alt="Logo" style="width:60%">
     <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">About Us</span></h1>
@@ -44,52 +44,48 @@
 <div class="w3-content w3-padding" style="max-width:1564px">
   <!-- History -->
   <div class="w3-container w3-center" id="history">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">History</h3>
-    <p>History berisi tentang sejarah awal mula terbentuknya Paduan Suara Mahasiswa ITS dan perkembangannya hingga saat ini..</p>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">History</font></h3>
+    <p><font size="3">History berisi tentang sejarah awal mula terbentuknya Paduan Suara Mahasiswa ITS dan perkembangannya hingga saat ini..</font></p>
   </div>
   <!-- Organigram -->
   <div class="w3-container w3-center" id="organigram">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Organigram</h3>
-    <p>Organigram berisi tentang susunan kepengurusan Paduan Suara Mahasiswa ITS periode 2016/2017..</p>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Organigram</font></h3>
+    <p><font size="3">Organigram berisi tentang susunan kepengurusan Paduan Suara Mahasiswa ITS periode 2016/2017..</font></p>
   </div>
   <!-- Cundoctor&Coaches -->
   <div class="w3-container w3-center" id="CundoctorAndCoaches">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Conductors and Coaches</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Conductors and Coaches</font></h3>
   </div>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3>John Doe</h3>
-      <p class="w3-opacity">CEO and Founder</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-btn-block">Contact</button></p>
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/dfdfdfdf.jpg" alt="Jane" style="width:100%">
-      <h3>Jane Doe</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-btn-block">Contact</button></p>
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/dfdfdfdf.jpg" alt="Mike" style="width:100%">
-      <h3>Mike Ross</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-btn-block">Contact</button></p>
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <img src="Assets/dfdfdfdf.jpg" alt="Dan" style="width:100%">
-      <h3>Dan Star</h3>
-      <p class="w3-opacity">Architect</p>
-      <p>Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</p>
-      <p><button class="w3-btn-block">Contact</button></p>
+      <h3><font size="4">John Doe</font></h3>
+      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
+      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
   </div>
   <!-- Achievement -->
   <div class="w3-container w3-padding-32 w3-center" id="achievement">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Achievement</h3>
-    <p>Berbentuk timeline yang berisi penghargaan-penghargaan yang telah didapatkan oleh PSM ITS dari waktu ke waktu</p>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Achievement</font></h3>
+    <p><font size="3">Berbentuk timeline yang berisi penghargaan-penghargaan yang telah didapatkan oleh PSM ITS dari waktu ke waktu</font></p>
   </div>
 </div>
 
