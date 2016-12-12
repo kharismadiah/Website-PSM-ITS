@@ -10,8 +10,8 @@
 <!-- Tulisan PSM pojok kiri atas & Menu di atas -->
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
-    <li>
-      <a href="home.php" class="w3-margin-left"><b>PSM ITS</b></a>
+    <li class="w3-row-padding">
+	  <img class="logo-image" src="Assets/logoKecil.jpg">
     </li>
     <li class="w3-right w3-hide-small">
       <a href="home.php" class="w3-left">Home</a>
@@ -43,7 +43,7 @@
 <!-- Content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
   <div class="w3-container w3-padding-32 w3-center" id="about">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Let's explore our world.</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Let's explore our world.</font></h3>
   </div>
   <style>
     .mySlides {display:none}
@@ -54,14 +54,16 @@
 <body>
   <div class="w3-content w3-display-container" style="max-width:800px">
     <img class="mySlides" src="Assets/dfdfdfdf.jpg" style="width:100%">
-    <img class="mySlides" src="Assets/dfdfdfdf.jpg" style="width:100%">
-    <img class="mySlides" src="Assets/dfdfdfdf.jpg" style="width:100%">
+    <img class="mySlides" src="Assets/6.jpg" style="width:100%">
+    <img class="mySlides" src="Assets/rtrtrtr.jpg" style="width:100%">
+    <img class="mySlides" src="Assets/ssdsdsd.jpg" style="width:100%">
     <div class="w3-center w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
       <div class="w3-left w3-padding-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
       <div class="w3-right w3-padding-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
       <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
       <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
       <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
+      <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(4)"></span>    
     </div>
   </div>
   <script>
