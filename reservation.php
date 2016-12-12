@@ -10,8 +10,8 @@
 <!-- Tulisan PSM pojok kiri atas & Menu di atas -->
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
-    <li>
-      <a href="home.php" class="w3-margin-left"><b>PSM ITS</b></a>
+    <li class="w3-row-padding">
+	  <img class="logo-image" src="Assets/logoKecil.jpg">
     </li>
     <li class="w3-right w3-hide-small">
       <a href="home.php" class="w3-left">Home</a>
@@ -30,9 +30,9 @@
 
 <!-- Landing Page -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
+  <img class="background-image" src="Assets/body1.png"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <img src="Assets/logor.png" alt="Logo" style="width:40%">
+	<img src="Assets/logor.png" alt="Logo" style="width:40%">
     <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">Reservation</span></h1>
   </div>
   <style>
@@ -45,108 +45,145 @@
   
 <!-- Reserve Section -->
   <div class="w3-container w3-padding-32 w3-center" id="about">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Reserve what you want to reserve here.</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Reserve what you want to reserve here.</font></h3>
   </div>
 
 <!-- Reservation Form Section -->
 <div class="w3-container w3-center" id="feedback">
-    <p>Ticket reservation</p>
-    <form action="form.asp" target="_blank">
-      <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-center" type="text" placeholder="Address" required name="Address">
+    <p><font size="5">Pemesanan Tiket Konser</font></p>
+    <font size="4">
+	<form action="form.asp" target="_blank">
+      <input class="w3-input w3-center" type="text" placeholder="Nama Lengkap" required name="Nama Lengkap">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Alamat" required name="Alamat">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
-      <input class="w3-input w3-section w3-center" type="text" placeholder="Number of tickets" required name="Number of tickets">
-      <p>Contact person for ticket reservation :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</p>
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Jumlah Tiket" required name="Jumlah Tiket">
+      <p><font size="4">Jenis Tiket :
+	  <br>
+		  <input type="radio" name="jenis" value="gold"> Gold
+		  <input type="radio" name="jenis" value="silver"> Silver
+		  <input type="radio" name="jenis" value="bronze"> Bronze
+	  </font>
+	  </p>
+	  <p><font size="4">Contact person Pemesanan Tiket Konser :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</font></p>
       <button class="w3-btn w3-section" type="submit">
-        <i class="fa fa-paper-plane"></i> RESERVE
+        <i class="fa fa-paper-plane"></i> PESAN
       </button>
     </form>
+	</font>
 </div>
 
 <div class="w3-container w3-center" id="feedback">
-    <p>Service reservation</p>
+    <p><font size="5">Pemesanan Jasa</font></p>
 	<!-- Data diri User -->
+	<font size="4">
     <form action="form.asp" target="_blank">
-      <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
-      <input class="w3-input w3-section w3-center" type="text" placeholder="Address" required name="Address">
+      <input class="w3-input w3-center" type="text" placeholder="Nama Lengkap" required name="Nama Lengkap">
+      <input class="w3-input w3-section w3-center" type="text" placeholder="Alamat" required name="Alamat">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
     <!-- Pilihan jasa -->
 	  <form action="">
-	  <p>Service :
+	  <p><font size="4">Service :
 	  <br>
 		  <input type="checkbox" name="service" value="dirigen"> Dirigen
 		  <input type="checkbox" name="service" value="vocal group"> Vocal Group*
-		  <input type="checkbox" name="service" value="choir">Choir
+		  <input type="checkbox" name="service" value="choir"> Choir
 		  <p>*maximum 6 person</p>
-    </p>
+      </font>
+      </p>
     </form>
 	  <!-- Gender -->
 	  <form action="">
-	  <p>Gender :
+	  <p><font size="4">Gender :
 	  <br>
 		  <input type="radio" name="gender" value="male only"> Male only
 		  <input type="radio" name="gender" value="female only"> Female only
 		  <input type="radio" name="gender" value="male & female"> Male & Female
+	  </font>
 	  </p>
     </form>
     <!-- Pengiring -->
 	  <form action="">
-	  <p>Accompaniment :
+	  <p><font size="4">Pengiring :
 	  <br>
-		  <input type="checkbox" name="accompaniment" value="keyboard"> Keyboard
+		  <input type="checkbox" name="accompaniment" value="keyboard"> Keyboard  
 		  <input type="checkbox" name="accompaniment" value="guitar"> Guitar
+	  </font>
 	  </p>
     </form>
     <!-- Pilihan lagu -->
-	  <form action="">
-	  <p>Song :
+	<form action="">
+	  <p><font size="4">Lagu :
 	  <br>
 		  <input type="checkbox" name="gender" value="male"> Indonesia Raya
-		  <input type="checkbox" name="gender" value="female"> Padamu Negeri
-		  <input type="checkbox" name="gender" value="male"> Rayuan Pulau Kelapa
-		  <input type="checkbox" name="gender" value="female"> Mengheningkan Cipta
+		  <input type="checkbox" name="gender" value="female"> When I Fall In Love
+		  <input type="checkbox" name="gender" value="male"> Astaga
+		  <input type="checkbox" name="gender" value="female"> We Are The Champions
+		  <input type="checkbox" name="gender" value="male"> Ma Rencong Rencong
+		  <input type="checkbox" name="gender" value="female"> Luk Luk Lumbu
+		  <input type="checkbox" name="gender" value="male"> Tardigadingdangdo
+		  <input type="checkbox" name="gender" value="female"> Bungong Jeumpa
+		  <input type="checkbox" name="gender" value="male"> Anoman Obong
+		  <br>
+		  <input type="checkbox" name="gender" value="female"> Sik Sik Sibatumanikam
+		  <input type="checkbox" name="gender" value="male"> Lenggang Surabaya
+		  <input type="checkbox" name="gender" value="female"> Rek Ayo Rek
+		  <input type="checkbox" name="gender" value="male"> Semanggi Surabaya
+		  <input type="checkbox" name="gender" value="female"> Surabaya
+		  <input type="checkbox" name="gender" value="male"> Rosas Pandan
+		  <input type="checkbox" name="gender" value="female"> Janger
+		  <input type="checkbox" name="gender" value="female"> Congratulations
+		  <input type="checkbox" name="gender" value="male"> This Marriage
+		  <input type="checkbox" name="gender" value="female"> Cing Cangkeling
+		  <br>
+		  <input type="checkbox" name="gender" value="male"> Ahtoy Porosh
+		  <input type="checkbox" name="gender" value="female"> Nyon Nyon
+		  <input type="checkbox" name="gender" value="male"> Just The Way You Are
+		  <input type="checkbox" name="gender" value="female"> Flashlight
+		  <input type="checkbox" name="gender" value="female"> Roar
+		  <input type="checkbox" name="gender" value="male"> When You Believe
+		  <input type="checkbox" name="gender" value="female"> Reflection		  
+	  </font>
 	  </p>
     </form>
     <!-- Pilihan kostum, trdpt beberapa foto kostum tsb -->
-	  <form action="">
-		  <div class="w3-content" style="max-width:1564px">
-		    <div class="w3-row-padding">
+	<form action="">
+		<div class="w3-content w3-padding" style="max-width:1564px">
+		    <div class="w3-row-padding w3-margin-center">
 		      <div class="w3-container" id="dress">
-			      <p>Dress :
-		      </div>
-		      <br>
-		      <div class="w3-col l3 m6 w3-margin-bottom">
-		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-		        <input type="radio" name="gender" value="male only"> Orange & Purple<br>
-		      </div>
-		      <div class="w3-col l3 m6 w3-margin-bottom">
-		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
-		      </div>
-          <div class="w3-col l3 m6 w3-margin-bottom">
-		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
-		      </div>
-		      <div class="w3-col l3 m6 w3-margin-bottom">
-		        <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-		        <input type="radio" name="gender" value="male only"> Black & Blue<br>
-		      </div>
-	          </p>
-	      </div>
-	    </div>
+			  	<p>
+				<font size="4">Dress :
+			  </div>
+			  <div class="w3-row-padding">
+					<div class="w3-col m6 w3-margin-bottom">
+						<img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Orange & Purple
+						</p>
+					</div>
+					<div class="w3-col m6 w3-margin-bottom">
+						<img src="Assets/6.jpg" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Black & Blue
+						</p>
+					</div>
+			  </div>
+				</font>
+				</p>
+			</div>
+		</div>
     </form>
-	  <!-- Tempat pelaksanaan acara -->
-    <input class="w3-input w3-section w3-center" type="text" placeholder="Event's Location" required name="Event's Location">
+	<!-- Tempat pelaksanaan acara -->
+    <font size="4"><input class="w3-input w3-section w3-center" type="text" placeholder="Lokasi Acara" required name="Lokasi Acara"></font>
     <!-- Tanggal & waktu pelaksanaan acara -->
 	  <form action="action_page.php">
-		  Organizing the Event :
+		  Waktu Pelaksanaan Acara :
 	  <input type="datetime-local" name="date&time">
 	  </form>
-	  
-    <p>Contact person for ticket reservation :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</p>
+    <p><font size="4">Contact person Pemesanan Jasa :<br>+6283854234856 (Afif)<br>+6282299604258 (Orchid)</font></p>
     <button class="w3-btn w3-section" type="submit">
-      <i class="fa fa-paper-plane"></i> RESERVE
+      <i class="fa fa-paper-plane"></i> PESAN
     </button>
+	</font>
     </form>
   </div>
 </div>
