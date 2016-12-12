@@ -10,8 +10,8 @@
 <!-- Tulisan PSM pojok kiri atas & Menu di atas -->
 <div class="w3-top">
   <ul class="w3-navbar w3-white w3-wide w3-padding-8 w3-card-2">
-    <li>
-      <a href="home.php" class="w3-margin-left"><b>PSM ITS</b></a>
+   <li class="w3-row-padding">
+	  <img class="logo-image" src="Assets/logoKecil.jpg">
     </li>
     <li class="w3-right w3-hide-small">
       <a href="home.php" class="w3-left">Home</a>
@@ -30,9 +30,9 @@
   
 <!-- Landing Page -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
+  <img class="background-image" src="Assets/body1.png"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
-    <img src="Assets/logot.png" alt="Logo" style="width:60%">
+	<img src="Assets/logot.png" alt="Logo" style="width:60%">
     <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">Timeline</span></h1>
   </div>
     <style>
@@ -44,44 +44,40 @@
 <div class="w3-content w3-padding" style="max-width:1564px">
   <!-- Timeline -->
   <div class="w3-container w3-padding-32 w3-center" id="timeline">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12">Timeline 2016</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">Timeline 2016</font></h3>
   </div>
   
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">January</div>
+        <div class="w3-display-topleft w3-black  w3-padding"><font size="3">Januari</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">February</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Februari</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">March</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Maret</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">April</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">April</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
   </div>
@@ -89,38 +85,34 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">May</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Mei</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">June</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Juni</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">July</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Juli</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">August</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Agustus</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
   </div>
@@ -128,38 +120,34 @@
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">September</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">September</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">October</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Oktober</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">November</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">November</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
-        <div class="w3-display-topleft w3-black w3-padding">December</div>
+        <div class="w3-display-topleft w3-black w3-padding"><font size="3">Desember</font></div>
         <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3>Events' Name</h3>
-        <p class="w3-opacity">Summary of the Events...</p>
-        <p><button class="w3-btn-block">Details</button></p>
+        <h3><font size="4">Events' Name</font></h3>
+        <p class="w3-opacity"><font size="3">Summary of the Events...</font></p>
       </div>
     </div>
   </div>
