@@ -30,7 +30,7 @@
 
 <!-- Landing Page -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="background-image" src="Assets/asd.jpg"  width="100%" height="100%">
+  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
     <img src="Assets/logoas.png" alt="Logo" style="width:60%">
     <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">About Us</span></h1>
