@@ -71,7 +71,7 @@
   </div>
   
   <div class="w3-container w3-padding-32 w3-center" id="merchandise">
-    <h3 class="w3-border-bottom w3-border-light-grey"><font size="5">Contact Person : </font></h3>
+    <h3 class="w3-border-bottom w3-border-light-grey"><font size="5">Contact Person : +6285321116902 (Pahol) </font></h3>
     <p></p>
   </div>
 
