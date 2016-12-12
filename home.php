@@ -30,7 +30,7 @@
 
 <!-- Landing Page -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="background-image" src="Assets/body.jpg"  width="100%" height="100%">
+  <img class="background-image" src="Assets/body1.png"  width="100%" height="100%">
   <div class="w3-display-middle w3-margin-top w3-center">
     <img src="Assets/Logo PSM ITS.png" alt="Logo" style="width:30%">
     <h1 class="w3-xxlarge w3-animate-zoom"><span class="w3-hide-small">Paduan Suara Mahasiswa ITS</span></h1>
@@ -44,7 +44,7 @@
 <div class="w3-content w3-padding" style="max-width:1564px">
   <!-- Testimonial -->
   <div class="w3-container w3-padding-32" id="Testimonials">
-    <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12">TESTIMONIALS</h3>
+    <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12">TESTIMONI</h3>
   </div>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
