@@ -49,22 +49,22 @@
 
   <div class="w3-row-padding">
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/merchandise.png" alt="John" style="width:100%">
+      <img src="Assets/gantungankunci.jpg" alt="John" style="width:100%">
       <h3><font size="4">Gantungan kunci</font></h3>
       <p class="w3-opacity"><font size="3">Rp. 15.000</font></p>
       </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/merchandise.png" alt="Jane" style="width:100%">
+      <img src="Assets/pin.jpg" alt="Jane" style="width:100%">
       <h3><font size="4">PIN</font></h3>
       <p class="w3-opacity"><font size="3">Rp. 10.000</font></p>
       </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/merchandise.png" alt="Mike" style="width:100%">
+      <img src="Assets/sticker.jpg" alt="Mike" style="width:100%">
       <h3><font size="4">Sticker</font></h3>
       <p class="w3-opacity"><font size="3">Rp. 5.000</font></p>
       </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <img src="Assets/merchandise.png" alt="Dan" style="width:100%">
+      <img src="Assets/kaos.jpg" alt="Dan" style="width:100%">
       <h3><font size="4">Kaos</font></h3>
       <p class="w3-opacity"><font size="3">Rp. 35.000</font></p>
       </div>
