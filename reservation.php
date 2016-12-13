@@ -154,16 +154,52 @@
 				<font size="4">Dress :
 			  </div>
 			  <div class="w3-row-padding">
-					<div class="w3-col m6 w3-margin-bottom">
-						<img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum1.png" alt="House" style="width:100%">
 						<p>
-						<input type="radio" name="gender" value="male only"> Orange & Purple
+						<input type="radio" name="gender" value="male only"> Kostum 1
 						</p>
 					</div>
-					<div class="w3-col m6 w3-margin-bottom">
-						<img src="Assets/6.jpg" alt="House" style="width:100%">
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum2.png" alt="House" style="width:100%">
 						<p>
-						<input type="radio" name="gender" value="male only"> Black & Blue
+						<input type="radio" name="gender" value="male only"> Kostum 2
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum3.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 3
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum4.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 4
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum5.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 5
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum6.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 6
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum7.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 7
+						</p>
+					</div>
+					<div class="w3-col m3 w3-margin-bottom">
+						<img src="Assets/kostum8.png" alt="House" style="width:100%">
+						<p>
+						<input type="radio" name="gender" value="male only"> Kostum 8
 						</p>
 					</div>
 			  </div>
