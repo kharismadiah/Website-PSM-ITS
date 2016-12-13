@@ -44,7 +44,7 @@
 <div class="w3-content w3-padding" style="max-width:1564px">
   <!-- Testimonial -->
   <div class="w3-container w3-padding-32" id="Testimonials">
-    <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12">TESTIMONI</h3>
+    <h3 class="w3-border-bottom w3-center w3-border-light-grey w3-padding-12"><font size="5">TESTIMONI</font></h3>
   </div>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
@@ -53,8 +53,8 @@
       <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
       <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
     </div>
-    <div class="w3-col l3 m6 w3-margin-bottom font-family=18px">
-      <img src="Assets/dfdfdfdf.jpg" alt="Jane" style="width:100%">
+    <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
+      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
       <h3><font size="4">John Doe</font></h3>
       <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
       <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
@@ -76,12 +76,12 @@
   <div class="w3-container w3-padding-32 w3-center" id="feedback">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-12"><font size="5">FEEDBACK</font></h3>
     <p><font size="3">Let's get in touch and talk about your suggestions for our improvements.</font></p>
-    <form method="post" action="mailto:ninimaimi@gmail.com" enctype="text/plain">
+    <form method="post" action="mailto:Psmits.itsstudentchoir@gmail.com" enctype="text/plain">
       <input class="w3-input w3-center" type="text" placeholder="Name" required name="Name">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Subject" required name="Subject">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Suggestions" required name="Suggestions">
-        <i class="fa fa-paper-plane"></i>
+      <i class="fa fa-paper-plane"></i>
         <input class="w3-btn w3-section w3-center" type="Submit">
     </form>
   </div>
