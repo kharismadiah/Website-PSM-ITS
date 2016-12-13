@@ -48,28 +48,28 @@
   </div>
   <div class="w3-row-padding w3-grayscale">
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
-      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3><font size="4">John Doe</font></h3>
-      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
-      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
+      <img src="Assets/einstein.jpg" alt="John" style="width:100%">
+      <h3><font size="4">Albert Einstein</font></h3>
+      <p class="w3-opacity"><font size="4">scientist</font></p>
+      <p><font size="3">I often think in music. I live my daydreams in music. I see my life in terms of music. I get most joy in life out of music.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
-      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3><font size="4">John Doe</font></h3>
-      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
-      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
+      <img src="Assets/stevie.png" alt="John" style="width:100%">
+      <h3><font size="4">Stevie Wonder</font></h3>
+      <p class="w3-opacity"><font size="4">musician</font></p>
+      <p><font size="3">Music is a world within itself, with a language we all understand.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
-      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3><font size="4">John Doe</font></h3>
-      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
-      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
+      <img src="Assets/paul.jpg" alt="John" style="width:100%">
+      <h3><font size="4">Paul MacCartney</font></h3>
+      <p class="w3-opacity"><font size="4">Musician</font></p>
+      <p><font size="3">I love to hear a choir. I love the humanity to see the faces of real people devoting themselves to a piece of music. I like the teamwork. It makes me feel optimistic about the human race when i see them cooperating like that.</font></p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom" font-family=18px>
-      <img src="Assets/dfdfdfdf.jpg" alt="John" style="width:100%">
-      <h3><font size="4">John Doe</font></h3>
-      <p class="w3-opacity"><font size="4">CEO and Founder</font></p>
-      <p><font size="3">Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum.</font></p>
+      <img src="Assets/richard.jpg" alt="John" style="width:100%">
+      <h3><font size="4">Richard Llewellyn</font></h3>
+      <p class="w3-opacity"><font size="4">Writer</font></p>
+      <p><font size="3">Sing, then. Sing, indeed, with shoulders back, and head up so that song might go to the roof and beyond to the sky. Mass on mass of tone, with a hard edge, and rich with quality, every single note a carpet of colour woven from basso profundo, and basso, and baritone, and alto, and tenor, and soprano, and also mezzo, and contralto, singing and singing, until life and all things living are become a song.</font></p>
     </div>
   </div>
   <!-- Feedback -->
