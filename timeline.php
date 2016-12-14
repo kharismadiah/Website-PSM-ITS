@@ -51,8 +51,8 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black  w3-padding"><font size="3">Januari</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/january.jpg" alt="House" style="width:100%">
+        
          <a href='januari.php'>Read More...</a>
         
       </div>
@@ -60,24 +60,24 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Februari</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/february.jpg" alt="House" style="width:100%">
+        
         <a href='februari.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Maret</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/march.jpg" alt="House" style="width:100%">
+        
         <a href='maret.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">April</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:100%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/april.jpg" alt="House" style="width:100%">
+        
         <a href='april.php'>Read More...</a>
       </div>
     </div>
@@ -87,32 +87,32 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Mei</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/may.jpg" alt="House" style="width:99%">
+        
         <a href='mei.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Juni</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/june.jpg" alt="House" style="width:99%">
+        
         <a href='juni.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Juli</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/july.jpg" alt="House" style="width:99%">
+        
         <a href='juli.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Agustus</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/august.jpg" alt="House" style="width:99%">
+        
         <a href='agustus.php'>Read More...</a>
       </div>
     </div>
@@ -122,32 +122,32 @@
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">September</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/september.jpg" alt="House" style="width:99%">
+        
         <a href='september.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Oktober</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/october.jpg" alt="House" style="width:99%">
+        
         <a href='oktober.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">November</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/november.jpg" alt="House" style="width:99%">
+        
         <a href='november.php'>Read More...</a>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-display-container">
         <div class="w3-display-topleft w3-black w3-padding"><font size="3">Desember</font></div>
-        <img src="Assets/dfdfdfdf.jpg" alt="House" style="width:99%">
-        <h3><font size="4">Events' Name</font></h3>
+        <img src="Assets/december.jpg" alt="House" style="width:99%">
+        
         <a href='desember.php'>Read More...</a>
       </div>
     </div>
