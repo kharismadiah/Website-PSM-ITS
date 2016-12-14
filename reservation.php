@@ -52,7 +52,7 @@
 <div class="w3-container w3-center" id="feedback">
     <p><font size="5">Pemesanan Tiket Konser</font></p>
     <font size="4">
-	<form action="form.asp" target="_blank">
+	<form method="post" action="mailto:Psmits.itsstudentchoir@gmail.com" enctype="text/plain">
       <input class="w3-input w3-center" type="text" placeholder="Nama Lengkap" required name="Nama Lengkap">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Alamat" required name="Alamat">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
@@ -76,7 +76,7 @@
     <p><font size="5">Pemesanan Jasa</font></p>
 	<!-- Data diri User -->
 	<font size="4">
-    <form action="form.asp" target="_blank">
+    <form method="post" action="mailto:Psmits.itsstudentchoir@gmail.com" enctype="text/plain">
       <input class="w3-input w3-center" type="text" placeholder="Nama Lengkap" required name="Nama Lengkap">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Alamat" required name="Alamat">
       <input class="w3-input w3-section w3-center" type="text" placeholder="Email" required name="Email">
